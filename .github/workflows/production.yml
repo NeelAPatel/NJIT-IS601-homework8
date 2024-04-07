@@ -50,6 +50,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: neelapatel/njit-is601-homework8:latest
+          tags: neelapatel/devops_demo:latest
 
           # Add other relevant build parameters here
